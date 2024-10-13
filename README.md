@@ -1,0 +1,1 @@
+In this repository I am using the pretrained Sentiment Analysis model to classify the user given sentiment into positive and negative. The model is also finding the accuracy of the model by testing against the 800 reviews taken from the IMDB dataset. and the model almost got 91% on that set.
